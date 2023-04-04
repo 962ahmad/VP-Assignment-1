@@ -1,0 +1,11 @@
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.csproj.AssemblyReference.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263_Assignment_1.Form1.resources
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263_Assignment_1.Properties.Resources.resources
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.csproj.GenerateResource.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\bin\Debug\AD1263-Assignment-1.exe.config
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\bin\Debug\AD1263-Assignment-1.exe
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\bin\Debug\AD1263-Assignment-1.pdb
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.exe
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\AD1263-Assignment-1\AD1263-Assignment-1\obj\Debug\AD1263-Assignment-1.pdb
