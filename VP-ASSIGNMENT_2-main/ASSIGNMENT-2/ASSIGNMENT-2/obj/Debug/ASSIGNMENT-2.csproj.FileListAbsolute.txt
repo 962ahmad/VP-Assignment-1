@@ -1,0 +1,11 @@
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\bin\Debug\ASSIGNMENT-2.exe.config
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\bin\Debug\ASSIGNMENT-2.exe
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\bin\Debug\ASSIGNMENT-2.pdb
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.csproj.AssemblyReference.cache
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.csproj.SuggestedBindingRedirects.cache
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT_2.frmLogin.resources
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT_2.Properties.Resources.resources
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.csproj.GenerateResource.cache
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.csproj.CoreCompileInputs.cache
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.exe
+E:\Devolpment\vp\ASSIGNMENT-2\ASSIGNMENT-2\obj\Debug\ASSIGNMENT-2.pdb
