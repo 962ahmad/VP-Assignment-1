@@ -1,0 +1,11 @@
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Ammar\Desktop\IU\برمجة مرئية\Projects\Windows Applications\Assignment4\obj\Debug\Assignment4.HumanResources.resources
