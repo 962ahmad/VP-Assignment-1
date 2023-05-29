@@ -1,0 +1,16 @@
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\bin\Debug\Tish_Restaurant.mdf
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\bin\Debug\Tish_Restaurant_log.ldf
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\dizaster.csproj.AssemblyReference.cache
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\dizaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.AdminPanel.resources
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.CashiersPanel.resources
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.Chart.resources
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.Form1.resources
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.Properties.Resources.resources
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\dizaster.csproj.GenerateResource.cache
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\dizaster.csproj.CoreCompileInputs.cache
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.exe
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.pdb
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.exe.config
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.exe
+C:\Users\962ah\Desktop\last-edit\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.pdb

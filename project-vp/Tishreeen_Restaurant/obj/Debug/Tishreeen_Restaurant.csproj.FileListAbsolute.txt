@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\bin\Debug\Tish_Restaurant.mdf
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\bin\Debug\Tish_Restaurant_log.ldf
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.exe.config
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.exe
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\bin\Debug\Tishreeen_Restaurant.pdb
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.CashiersPanel.resources
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.Form1.resources
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.Properties.Resources.resources
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.exe
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.pdb
+C:\Users\mario\source\repos\Tishreeen_Restaurant\Tishreeen_Restaurant\obj\Debug\Tishreeen_Restaurant.AdminPanel.resources
